@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://raytong82.github.io",
     "hubpress": "https://raytong82.github.io",
-    "theme": "//raytong82.github.io/themes/uno",
+    "theme": "//raytong82.github.io/themes/casper",
     "images": "https://raytong82.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -29,7 +29,7 @@
     ]
   },
   "site": {
-    "title": "",
+    "title": "Simple Code",
     "description": "",
     "logo": "",
     "cover": "",
@@ -41,14 +41,14 @@
   },
   "socialnetwork": {
     "email": "",
-    "github": "",
-    "twitter": "",
+    "github": "raytong82",
+    "twitter": "raytong82",
     "facebook": "",
     "googleplus": "",
     "instagram": "",
     "pinterest": "",
     "flickr": "",
-    "linkedin": "",
+    "linkedin": "raytong",
     "stackoverflow": "",
     "paypalme": "",
     "opencollective": ""
